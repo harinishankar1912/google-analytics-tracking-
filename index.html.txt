@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Analytics Tracking</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Web Pattern Navigation Profiling</h1>
+        <p>Tracking user behavior using Google Analytics</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>About This Project</h2>
+            <p>This project helps analyze user navigation patterns on a website using Google Analytics.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Web Tracking Project</p>
+    </footer>
+</body>
+</html>
