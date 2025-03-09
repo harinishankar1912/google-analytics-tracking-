@@ -6,6 +6,14 @@
     <title>Google Analytics Tracking</title>
     <link rel="stylesheet" href="style.css">
 </head>
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YH1GRFLTQ6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-YH1GRFLTQ6');
+</script>
 <body>
     <header>
         <h1>Welcome to Web Pattern Navigation Profiling</h1>
